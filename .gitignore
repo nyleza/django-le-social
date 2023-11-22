@@ -3,3 +3,6 @@ django_le_social.egg-info/
 docs/_build
 .tox
 build
+
+.vscode
+.idea
